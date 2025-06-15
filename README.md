@@ -34,12 +34,12 @@ You’ll need somewhere like a search engine or archive for torrents. We’ll di
 
 Please be careful and vigilant. Get a VPN.
 
-> I'm currently using **Proton VPN**, but this isn't a recommendation for it. Research a good one. Ask a friend who uses a VPN. Find one that works for you.  
+> I'm currently using [**Proton VPN**](https://protonvpn.com), but this isn't a recommendation for it. Research a good one. Ask a friend who uses a VPN. Find one that works for you.  
 > ⚠️ If you live in a country where piracy is a crime or a federal crime, **please be very careful.**
 
 **[IMPORTANT]** Use an **adblocker**:
-- Firefox with **uBlock Origin**
-- **AdGuard** (VPN that blocks ads — _I pay for AdGuard and I’m very happy with it_)
+- [Firefox](https://www.mozilla.org/ar/firefox/new/) with [**uBlock Origin**](https://ublockorigin.com/)
+- [**AdGuard**](https://adguard.com/en/welcome.html) (VPN that blocks ads — _I pay for AdGuard and I’m very happy with it_)
 
 ---
 
@@ -85,8 +85,8 @@ To read more about video quality and file types:
 
 Use a video player like:
 
-- **VLC**
-- **MPC**
+- [**VLC**](https://www.videolan.org/vlc/)
+- [**MPC**](https://codecguide.com/download_kl.htm)
 
 Google them and find their official site.
 
@@ -141,7 +141,7 @@ There are **private trackers** and forums that share links and torrents. They're
 To learn about them:  
 [Open Signups – r/OpenSignups](https://www.reddit.com/r/OpenSignups/)
 
-There are also some **Twitter/X accounts** that share links. Here are some usernames:
+There are also some **Twitter accounts** that share links. Here are some usernames:
 
 - `drivelexandria`
 - `allindrive`
