@@ -164,5 +164,4 @@ There are also some **Twitter accounts** that share links. Here are some usernam
 
 **[IMPORTANT]** Be **very nice** to people — they’ll be nice to you.
 
-
-ستبقى فلسطين، المجد للشهداء
+<p style="text-align:center;">ستبقى فلسطين، المجد للشهداء</p>
